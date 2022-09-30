@@ -1,4 +1,3 @@
-from importlib.metadata import metadata
 import re
 from yaml import load, FullLoader
 from collections.abc import Mapping
